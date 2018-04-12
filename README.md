@@ -13,6 +13,6 @@ CC-BY-SA-4 https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Regulator: 32 frames, 200 ms
 ![Regulator: 32 frames, 200 ms](https://github.com/raspitv/turntable/blob/master/reg_32_200.gif)
-add
+
 ## Potentiometer: 32 frames, 200 ms 
 ![Potentiometer: 32 frames, 200 ms](https://github.com/raspitv/turntable/blob/master/pot_32_200.gif)
